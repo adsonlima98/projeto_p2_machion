@@ -161,10 +161,10 @@ No Projeto I, `VetorDinamico` e `PilhaProcesso` eram estruturas de tipo concreto
 
 | Nome | RA |
 |------|-----|
-| Adson Lima | 1430482511035 |
-| Mariana Borgato | 1430482511046 |
-| Pedro Henrique de Oliveira | 1430482511040 |
-| Pietro Zonta | 1430482511007 |
+| Adson Lima de Jesus | 1430482511035 |
+| Mariana Borgato dos Anjos | 1430482511046 |
+| Pedro Henrique Vendite Manoel | 1430482511040 |
+| Pietro Zonta Vieira | 1430482511007 |
 | Vyctoria Karina da Silva | 1430482613042 |
 
 **ADS — Fatec Carapicuíba | 3º Semestre | 2026**
