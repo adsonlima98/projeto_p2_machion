@@ -1,4 +1,4 @@
-# 📚 Biblioteca Digital — Projeto P2
+#  Biblioteca Digital — Projeto P2
 
 Sistema de gerenciamento de biblioteca digital desenvolvido em **Java 21** para a disciplina de **Estruturas de Dados** do curso de **Análise e Desenvolvimento de Sistemas (ADS) — Fatec Carapicuíba**.
 
@@ -6,7 +6,7 @@ O projeto aplica três estruturas de dados — **lista duplamente encadeada**, *
 
 ---
 
-## 🗂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 biblioteca/
@@ -42,7 +42,7 @@ biblioteca/
 
 ---
 
-## ⚙️ Pré-requisitos
+##  Pré-requisitos
 
 - **Java JDK 17+** (testado com OpenJDK 21)
 
@@ -55,7 +55,7 @@ javac -version
 
 ---
 
-## 🚀 Como Compilar e Executar
+##  Como Compilar e Executar
 
 ### 1. Clone o repositório
 
@@ -86,7 +86,7 @@ java BibliotecaDigital
 
 ---
 
-## 📋 Detalhamento das Etapas
+##  Detalhamento das Etapas
 
 ### Etapa 1 — Classes de Domínio e Lista Duplamente Encadeada
 
@@ -151,13 +151,13 @@ O sistema completo integra as três estruturas simultaneamente:
 
 ---
 
-## 🔗 Conexão com o Projeto I
+##  Conexão com o Projeto I
 
 No Projeto I, `VetorDinamico` e `PilhaProcesso` eram estruturas de tipo concreto que precisavam ser reescritas para cada tipo de dado. Este Projeto II resolve isso com **genéricos**: `No<T>`, `Fila<T>`, `NossoHash<K,V>` e `Entrada<K,V>` funcionam para qualquer tipo, eliminando duplicação de código. A `ListaDupla` foi mantida com tipo concreto `Livro` de propósito para consolidar a diferença prática.
 
 ---
 
-## 👥 Autores
+## Autores
 
 | Nome | RA |
 |------|-----|
