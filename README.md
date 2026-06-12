@@ -60,8 +60,7 @@ javac -version
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/biblioteca-digital.git
-cd biblioteca-digital
+git clone https://github.com/adsonlima98/projeto_p2_machion.git
 ```
 
 ### 2. Compile todos os arquivos
